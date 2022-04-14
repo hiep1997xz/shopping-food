@@ -1,0 +1,17 @@
+.header-content_logo {
+  min-width: fit-content;
+}
+.header-content_logo img {
+  width: 4rem;
+  margin-right: 1rem;
+}
+.header-content_logo > div {
+  display: flex;
+  align-items: center;
+}
+.header-content_logo > p {
+  font-size: 1rem;
+}
+.content-logo img {
+  width: 2rem;
+}
